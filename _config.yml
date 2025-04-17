@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "던파를 접어봄"
+title                    : "휴식처"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "antiwater19"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "antiwater19"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "초보자의 블로그"
   location         : "경기도"
   email            :
   links:
